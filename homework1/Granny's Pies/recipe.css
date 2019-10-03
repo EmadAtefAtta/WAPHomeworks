@@ -38,5 +38,9 @@ blockquote{
 footer{
     font-family: monospace;
     text-align: right;
-    width: 220px;
+    
+}
+.footer{
+    text-align: right;
+    
 }
